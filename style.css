@@ -1,0 +1,11 @@
+.white{color: rgb(109, 8, 8);
+}
+.big-title{font-size: 30px;
+    text-align: center;}
+.bold{font-weight: bold;}
+.fieldset{display: grid; margin: 10px 300px 300px 300px;}
+body{background-image: url("https://coolbackgrounds.io/images/backgrounds/index/ranger-4df6c1b6.png");
+font-family: Arial;
+color: rgb(109, 8, 8);
+font-size: 20px;}
+input{width: 500px;}
